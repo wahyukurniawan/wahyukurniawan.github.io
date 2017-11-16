@@ -12,6 +12,7 @@ body{
 
 .mytext img{
 	width: 200px;
+  margin-top: 20px;
 	border: 2px solid #fff;
 }
 
@@ -103,7 +104,5 @@ footer p{
 }
 
 .mytext{
-   position:absolute;
-   margin: 60px 530px;
    color: #fff;
 }
